@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AtmaAuto Mobile</string>
+    <string name="tab_text_1">About</string>
+    <string name="tab_text_2">Spareparts</string>
+    <string name="tab_text_3">History</string>
+
+    <string name="miniTitle">Reveal the True Power</string>
+    <string name="title">ATMA AUTO</string>
+    <string name="fix">FIX AS IF REPRODUCING AGAIN</string>
+    <string name="text1">We believe in the power of every motorcycle, and that is what motivated us...</string>
+    <string name="text2">With an army of many experienced mechanics, and the desire to improve...</string>
+    <string name="text3">We will bring the joy of happiness to all people...</string>
+    <string name="text4">Because your pleasure, is our priority</string>
+</resources>

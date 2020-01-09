@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="@dimen/appbar_padding_top">
+
+    <TextView
+        android:id="@+id/historyKode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kode Penjualan"
+        android:textColor="#000000"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/historyTanggal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tanggal"
+        android:textColor="#000000"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/historyStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Status "
+        android:textColor="#000000"
+        android:textSize="18sp" />
+</LinearLayout>
